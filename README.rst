@@ -1,3 +1,5 @@
+Seems to work with Django 2.0+, to confirm with testing.
+
 django-email-confirm-la
 =======================
 
